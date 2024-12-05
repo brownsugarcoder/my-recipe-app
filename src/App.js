@@ -5,6 +5,7 @@ import Home from './pages/Home';
 import RecipeDetail from './pages/RecipeDetail';
 import Search from './pages/Search';
 import Navbar from "./components/Navbar";
+console.log ("hi")
 
 function App() {
   return (
