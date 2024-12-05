@@ -1,11 +1,11 @@
-import './assets/style/App.css';
 import React from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Home from './pages/Home';
 import RecipeDetail from './pages/RecipeDetail';
 import Search from './pages/Search';
 import Navbar from "./components/Navbar";
-console.log ("hi")
+import './assets/style/App.css';
+
 
 function App() {
   return (
